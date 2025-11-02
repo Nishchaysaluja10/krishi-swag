@@ -1,0 +1,276 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "howItWorks": "工作原理",
+    "community": "社区",
+    "login": "登录",
+    "logout": "登出",
+    "dashboard": "仪表板"
+  },
+  "hero": {
+    "title": "用AI保护您的作物",
+    "subtitle": "使用我们先进的AI技术即时检测作物疾病。上传图片，几秒钟内获得结果。",
+    "uploadButton": "上传作物图片",
+    "detectButton": "检测疾病",
+    "badge": "AI驱动检测"
+  },
+  "features": {
+    "title": "如何追踪疾病",
+    "step1Title": "拍摄图片",
+    "step1Desc": "拍摄受影响作物叶片或植物的清晰照片",
+    "step2Title": "上传和分析",
+    "step2Desc": "我们的AI分析图片以查找疾病症状",
+    "step3Title": "获取结果",
+    "step3Desc": "获得即时诊断和治疗建议"
+  },
+  "dashboard": {
+    "title": "疾病检测仪表板",
+    "uploadTitle": "上传作物图片进行检测",
+    "recentTitle": "最近检测",
+    "communityTitle": "社区通知",
+    "showMore": "显示更多",
+    "update": "更新",
+    "noDetections": "还没有检测。上传图片开始吧！",
+    "analyzing": "正在分析图片...",
+    "chatbot": "询问我们的AI助手"
+  },
+  "detection": {
+    "confidence": "置信度",
+    "severity": "严重程度",
+    "recommendations": "建议",
+    "uploadSuccess": "图片上传成功！",
+    "uploadError": "图片上传失败。请重试。"
+  },
+  "auth": {
+    "login": "登录",
+    "signup": "注册",
+    "email": "电子邮件",
+    "password": "密码",
+    "fullName": "全名",
+    "phone": "电话号码",
+    "noAccount": "没有账户？",
+    "haveAccount": "已有账户？",
+    "loginError": "登录失败。请检查您的凭据。",
+    "signupError": "注册失败。请重试。"
+  },
+  "community": {
+    "title": "社区疾病警报",
+    "trending": "热门",
+    "location": "位置",
+    "reportedOn": "报告于",
+    "hero": {
+      "badge": "实时社区动态",
+      "subtitle": "及时了解您所在地区的疾病爆发。与世界各地的农民联系并分享见解。"
+    },
+    "stats": {
+      "activeUsers": "10K+",
+      "activeUsersLabel": "活跃用户",
+      "alerts": "2.5K",
+      "alertsLabel": "活跃警报",
+      "locations": "150+",
+      "locationsLabel": "国家",
+      "resolved": "8.2K",
+      "resolvedLabel": "已解决案例"
+    },
+    "description": {
+      "title": "我们一起变得更强大",
+      "text1": "我们的社区平台连接来自世界各地的农民、农业专家和研究人员。分享疾病警报，从他人的经验中学习，并为一个帮助每个人保护作物的全球知识库做出贡献。",
+      "text2": "通过参与我们的社区，您正在帮助创建早期预警系统和最佳实践，使整个农业社区受益。"
+    },
+    "notices": {
+      "title": "最新疾病警报",
+      "count": "{{count}} 个活跃警报"
+    },
+    "empty": {
+      "title": "无活跃警报",
+      "description": "请稍后再查看社区疾病警报和更新。"
+    },
+    "benefits": {
+      "title": "社区好处",
+      "connect": {
+        "title": "连接",
+        "desc": "与全球农民和专家建立网络"
+      },
+      "alerts": {
+        "title": "早期警报",
+        "desc": "首先收到疾病爆发的通知"
+      },
+      "share": {
+        "title": "分享知识",
+        "desc": "为全球农业知识库做出贡献"
+      }
+    },
+    "cta": {
+      "title": "加入我们不断发展的社区",
+      "description": "今天开始分享和接收疾病警报。您的参与有助于保护世界各地的作物。",
+      "button": "开始"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "关于CropGuard AI",
+      "subtitle": "通过尖端的AI技术赋能全球农民，有效检测和管理作物疾病。"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "description": "CropGuard AI是一个先进的农业技术平台，旨在彻底改变作物疾病检测。我们将最先进的人工智能与深厚的农业专业知识相结合，为农民提供关于其作物的准确、即时和可操作的见解。",
+      "vision": "我们的愿景是让先进的作物疾病检测技术为各地农民所用，无论他们的位置或技术专长如何。我们相信技术应该赋能，而不是复杂化，每个农民都应该获得可以帮助保护其生计的工具。"
+    },
+    "stats": {
+      "users": "50K+",
+      "usersLabel": "活跃用户",
+      "detections": "200K+",
+      "detectionsLabel": "疾病检测",
+      "accuracy": "95%",
+      "accuracyLabel": "准确率",
+      "countries": "120+",
+      "countriesLabel": "服务国家"
+    },
+    "features": {
+      "title": "为什么选择CropGuard AI",
+      "accuracy": {
+        "title": "高准确率",
+        "desc": "我们的AI模型在数百万作物图像上训练，并不断改进以达到行业领先的准确率。"
+      },
+      "speed": {
+        "title": "超快速",
+        "desc": "几秒钟内获得即时结果。无需等待，无延迟——只需在您最需要时提供快速、可靠的疾病检测。"
+      },
+      "accessibility": {
+        "title": "随处可用",
+        "desc": "在任何有互联网连接的设备上工作。无论您是在田间还是在家中，CropGuard AI始终触手可及。"
+      },
+      "community": {
+        "title": "全球社区",
+        "desc": "加入一个分享知识、警报和作物疾病管理最佳实践的全球农民网络。"
+      }
+    },
+    "values": {
+      "title": "我们的核心价值观",
+      "innovation": {
+        "title": "创新",
+        "desc": "不断推动AI和农业技术的边界"
+      },
+      "empowerment": {
+        "title": "赋能",
+        "desc": "为农民提供成功所需的工具"
+      },
+      "excellence": {
+        "title": "卓越",
+        "desc": "致力于提供最高质量的服务"
+      },
+      "sustainability": {
+        "title": "可持续性",
+        "desc": "为子孙后代推广可持续农业实践"
+      }
+    },
+    "technology": {
+      "title": "由先进技术驱动",
+      "ai": {
+        "title": "人工智能",
+        "desc": "在大量数据集上训练的深度学习模型，以卓越的准确性识别疾病模式。"
+      },
+      "cloud": {
+        "title": "云计算",
+        "desc": "可扩展的基础设施确保快速处理和可靠服务，24/7可用。"
+      },
+      "mobile": {
+        "title": "移动优先设计",
+        "desc": "针对移动设备优化，便于在田间使用智能手机和平板电脑。"
+      },
+      "data": {
+        "title": "数据安全",
+        "desc": "您的数据经过加密和安全保护。我们认真对待隐私，未经同意绝不分享您的信息。"
+      }
+    },
+    "cta": {
+      "title": "准备好保护您的作物了吗？",
+      "description": "加入数千名信任CropGuard AI进行准确疾病检测的农民。今天开始您的免费账户。",
+      "getStarted": "开始",
+      "learnMore": "了解更多"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "badge": "简单有效",
+      "title": "工作原理",
+      "subtitle": "我们先进的AI驱动平台使作物疾病检测变得简单、快速和准确。按照这些简单的步骤开始。"
+    },
+    "steps": {
+      "capture": {
+        "title": "拍摄清晰图片",
+        "desc": "拍摄受影响作物区域的高质量照片。确保良好的光照并聚焦于患病的叶子或植物部位。",
+        "details": "使用您的智能手机或相机拍摄清晰的照片。更好的图像质量会导致更准确的检测结果。"
+      },
+      "upload": {
+        "title": "上传您的图片",
+        "desc": "只需拖放您的图片或从设备中选择它。我们的平台支持各种图片格式。",
+        "details": "上传过程安全且加密。您的图片会被快速处理并安全存储以供参考。"
+      },
+      "analyze": {
+        "title": "AI分析",
+        "desc": "我们先进的AI模型分析您的图片，将其与数据库中的数千种疾病模式进行比较。",
+        "details": "使用深度学习算法，我们识别疾病症状，评估严重程度，并为每次检测提供置信度分数。"
+      },
+      "results": {
+        "title": "获得即时结果",
+        "desc": "接收详细诊断，包括疾病名称、严重程度、置信度分数和治疗建议。",
+        "details": "我们的建议包括有机和化学治疗方案、预防提示以及疾病管理的最佳实践。"
+      }
+    },
+    "benefits": {
+      "title": "关键好处",
+      "speed": {
+        "title": "超快速",
+        "desc": "几秒钟内获得结果，而不是几小时或几天。"
+      },
+      "accuracy": {
+        "title": "高度准确",
+        "desc": "95%+的准确率，持续改进。"
+      },
+      "easy": {
+        "title": "易于使用",
+        "desc": "简单的界面，无需技术专长。"
+      },
+      "tracking": {
+        "title": "跟踪历史",
+        "desc": "通过检测历史随时间监控您的作物健康状况。"
+      }
+    },
+    "tips": {
+      "title": "获得最佳结果的提示",
+      "tip1": "在自然光下拍摄以获得最佳清晰度",
+      "tip2": "专注于受影响区域，保持图像清晰和对焦",
+      "tip3": "尽可能包括特写和更广角的镜头",
+      "tip4": "避免可能遮挡症状的阴影和反射",
+      "tip5": "从多个角度拍摄图像以进行全面分析"
+    },
+    "faq": {
+      "title": "常见问题",
+      "q1": {
+        "question": "检测有多准确？",
+        "answer": "我们的AI模型在疾病检测中达到95%以上的准确率，并且我们通过机器学习不断改进。"
+      },
+      "q2": {
+        "question": "我的数据安全吗？",
+        "answer": "是的，所有图片和数据都经过加密和安全存储。我们绝不会与第三方分享您的信息。"
+      },
+      "q3": {
+        "question": "我可以离线使用吗？",
+        "answer": "目前，AI处理需要互联网连接。我们正在为未来的更新开发离线功能。"
+      },
+      "q4": {
+        "question": "支持哪些作物？",
+        "answer": "我们支持主要作物，包括水稻、小麦、玉米、番茄、土豆等等。我们的数据库不断扩大。"
+      }
+    },
+    "cta": {
+      "title": "今天开始检测疾病",
+      "description": "加入数千名使用AI驱动的疾病检测保护作物的农民。几秒钟内开始。",
+      "button": "立即试用"
+    }
+  }
+}
+
+

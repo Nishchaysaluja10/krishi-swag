@@ -1,0 +1,274 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "howItWorks": "How It Works",
+    "community": "Community",
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "title": "Protect Your Crops with AI",
+    "subtitle": "Detect crop diseases instantly with our advanced AI technology. Upload an image and get results in seconds.",
+    "uploadButton": "Upload Crop Image",
+    "detectButton": "Detect Disease",
+    "badge": "AI-Powered Detection"
+  },
+  "features": {
+    "title": "How to Track Disease",
+    "step1Title": "Capture Image",
+    "step1Desc": "Take a clear photo of the affected crop leaf or plant",
+    "step2Title": "Upload & Analyze",
+    "step2Desc": "Our AI analyzes the image for disease symptoms",
+    "step3Title": "Get Results",
+    "step3Desc": "Receive instant diagnosis with treatment recommendations"
+  },
+  "dashboard": {
+    "title": "Disease Detection Dashboard",
+    "uploadTitle": "Upload Crop Image for Detection",
+    "recentTitle": "Recent Detections",
+    "communityTitle": "Community Notices",
+    "showMore": "Show More",
+    "update": "Update",
+    "noDetections": "No detections yet. Upload an image to get started!",
+    "analyzing": "Analyzing image...",
+    "chatbot": "Ask our AI Assistant"
+  },
+  "detection": {
+    "confidence": "Confidence",
+    "severity": "Severity",
+    "recommendations": "Recommendations",
+    "uploadSuccess": "Image uploaded successfully!",
+    "uploadError": "Failed to upload image. Please try again."
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "loginError": "Login failed. Please check your credentials.",
+    "signupError": "Signup failed. Please try again."
+  },
+  "community": {
+    "title": "Community Disease Alerts",
+    "trending": "Trending",
+    "location": "Location",
+    "reportedOn": "Reported on",
+    "hero": {
+      "badge": "Live Community Feed",
+      "subtitle": "Stay informed about disease outbreaks in your area. Connect with farmers worldwide and share insights."
+    },
+    "stats": {
+      "activeUsers": "10K+",
+      "activeUsersLabel": "Active Users",
+      "alerts": "2.5K",
+      "alertsLabel": "Active Alerts",
+      "locations": "150+",
+      "locationsLabel": "Countries",
+      "resolved": "8.2K",
+      "resolvedLabel": "Cases Resolved"
+    },
+    "description": {
+      "title": "Together We Grow Stronger",
+      "text1": "Our community platform connects farmers, agricultural experts, and researchers from around the world. Share disease alerts, learn from others' experiences, and contribute to a global knowledge base that helps everyone protect their crops.",
+      "text2": "By participating in our community, you're helping create early warning systems and best practices that benefit the entire agricultural community."
+    },
+    "notices": {
+      "title": "Latest Disease Alerts",
+      "count": "{{count}} Active Alerts"
+    },
+    "empty": {
+      "title": "No Active Alerts",
+      "description": "Check back soon for community disease alerts and updates."
+    },
+    "benefits": {
+      "title": "Community Benefits",
+      "connect": {
+        "title": "Connect",
+        "desc": "Network with farmers and experts globally"
+      },
+      "alerts": {
+        "title": "Early Alerts",
+        "desc": "Get notified about disease outbreaks first"
+      },
+      "share": {
+        "title": "Share Knowledge",
+        "desc": "Contribute to a global agricultural knowledge base"
+      }
+    },
+    "cta": {
+      "title": "Join Our Growing Community",
+      "description": "Start sharing and receiving disease alerts today. Your participation helps protect crops worldwide.",
+      "button": "Get Started"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About CropGuard AI",
+      "subtitle": "Empowering farmers worldwide with cutting-edge AI technology to detect and manage crop diseases effectively."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "CropGuard AI is an advanced agricultural technology platform designed to revolutionize crop disease detection. We combine state-of-the-art artificial intelligence with deep agricultural expertise to provide farmers with accurate, instant, and actionable insights about their crops.",
+      "vision": "Our vision is to make advanced crop disease detection accessible to farmers everywhere, regardless of their location or technical expertise. We believe that technology should empower, not complicate, and that every farmer deserves access to tools that can help protect their livelihood."
+    },
+    "stats": {
+      "users": "50K+",
+      "usersLabel": "Active Users",
+      "detections": "200K+",
+      "detectionsLabel": "Disease Detections",
+      "accuracy": "95%",
+      "accuracyLabel": "Accuracy Rate",
+      "countries": "120+",
+      "countriesLabel": "Countries Served"
+    },
+    "features": {
+      "title": "Why Choose CropGuard AI",
+      "accuracy": {
+        "title": "High Accuracy",
+        "desc": "Our AI models are trained on millions of crop images and continuously improved to achieve industry-leading accuracy rates."
+      },
+      "speed": {
+        "title": "Lightning Fast",
+        "desc": "Get instant results within seconds. No waiting, no delays - just fast, reliable disease detection when you need it most."
+      },
+      "accessibility": {
+        "title": "Accessible Everywhere",
+        "desc": "Works on any device with an internet connection. Whether you're in the field or at home, CropGuard AI is always at your fingertips."
+      },
+      "community": {
+        "title": "Global Community",
+        "desc": "Join a worldwide network of farmers sharing knowledge, alerts, and best practices for crop disease management."
+      }
+    },
+    "values": {
+      "title": "Our Core Values",
+      "innovation": {
+        "title": "Innovation",
+        "desc": "Constantly pushing the boundaries of AI and agricultural technology"
+      },
+      "empowerment": {
+        "title": "Empowerment",
+        "desc": "Giving farmers the tools they need to succeed"
+      },
+      "excellence": {
+        "title": "Excellence",
+        "desc": "Committed to delivering the highest quality service"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "desc": "Promoting sustainable farming practices for future generations"
+      }
+    },
+    "technology": {
+      "title": "Powered by Advanced Technology",
+      "ai": {
+        "title": "Artificial Intelligence",
+        "desc": "Deep learning models trained on vast datasets to recognize disease patterns with exceptional accuracy."
+      },
+      "cloud": {
+        "title": "Cloud Computing",
+        "desc": "Scalable infrastructure ensures fast processing and reliable service, available 24/7."
+      },
+      "mobile": {
+        "title": "Mobile-First Design",
+        "desc": "Optimized for mobile devices, making it easy to use in the field with smartphones and tablets."
+      },
+      "data": {
+        "title": "Data Security",
+        "desc": "Your data is encrypted and secure. We take privacy seriously and never share your information without consent."
+      }
+    },
+    "cta": {
+      "title": "Ready to Protect Your Crops?",
+      "description": "Join thousands of farmers who trust CropGuard AI for accurate disease detection. Start your free account today.",
+      "getStarted": "Get Started",
+      "learnMore": "Learn More"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "badge": "Simple & Effective",
+      "title": "How It Works",
+      "subtitle": "Our advanced AI-powered platform makes crop disease detection simple, fast, and accurate. Follow these easy steps to get started."
+    },
+    "steps": {
+      "capture": {
+        "title": "Capture a Clear Image",
+        "desc": "Take a high-quality photo of the affected crop area. Ensure good lighting and focus on the diseased leaves or plant parts.",
+        "details": "Use your smartphone or camera to capture clear images. Better image quality leads to more accurate detection results."
+      },
+      "upload": {
+        "title": "Upload Your Image",
+        "desc": "Simply drag and drop your image or select it from your device. Our platform supports various image formats.",
+        "details": "The upload process is secure and encrypted. Your images are processed quickly and stored safely for your reference."
+      },
+      "analyze": {
+        "title": "AI Analysis",
+        "desc": "Our advanced AI model analyzes your image, comparing it against thousands of disease patterns in our database.",
+        "details": "Using deep learning algorithms, we identify disease symptoms, assess severity, and provide confidence scores for each detection."
+      },
+      "results": {
+        "title": "Get Instant Results",
+        "desc": "Receive detailed diagnosis including disease name, severity level, confidence score, and treatment recommendations.",
+        "details": "Our recommendations include organic and chemical treatment options, prevention tips, and best practices for disease management."
+      }
+    },
+    "benefits": {
+      "title": "Key Benefits",
+      "speed": {
+        "title": "Lightning Fast",
+        "desc": "Get results in seconds, not hours or days."
+      },
+      "accuracy": {
+        "title": "Highly Accurate",
+        "desc": "95%+ accuracy rate with continuous improvements."
+      },
+      "easy": {
+        "title": "Easy to Use",
+        "desc": "Simple interface, no technical expertise required."
+      },
+      "tracking": {
+        "title": "Track History",
+        "desc": "Monitor your crop health over time with detection history."
+      }
+    },
+    "tips": {
+      "title": "Tips for Best Results",
+      "tip1": "Take photos in natural daylight for best clarity",
+      "tip2": "Focus on affected areas, keeping the image sharp and in focus",
+      "tip3": "Include both close-up and wider shots when possible",
+      "tip4": "Avoid shadows and reflections that might obscure symptoms",
+      "tip5": "Capture images from multiple angles for comprehensive analysis"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "How accurate is the detection?",
+        "answer": "Our AI models achieve over 95% accuracy in disease detection, and we continuously improve through machine learning."
+      },
+      "q2": {
+        "question": "Is my data secure?",
+        "answer": "Yes, all images and data are encrypted and stored securely. We never share your information with third parties."
+      },
+      "q3": {
+        "question": "Can I use this offline?",
+        "answer": "Currently, an internet connection is required for AI processing. We're working on offline capabilities for future updates."
+      },
+      "q4": {
+        "question": "What crops are supported?",
+        "answer": "We support major crops including rice, wheat, corn, tomatoes, potatoes, and many more. Our database continues to expand."
+      }
+    },
+    "cta": {
+      "title": "Start Detecting Diseases Today",
+      "description": "Join thousands of farmers protecting their crops with AI-powered disease detection. Get started in seconds.",
+      "button": "Try It Now"
+    }
+  }
+}

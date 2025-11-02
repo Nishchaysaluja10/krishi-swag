@@ -1,0 +1,276 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "howItWorks": "Cómo Funciona",
+    "community": "Comunidad",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "dashboard": "Panel"
+  },
+  "hero": {
+    "title": "Protege Tus Cultivos con IA",
+    "subtitle": "Detecta enfermedades de cultivos al instante con nuestra tecnología de IA avanzada. Sube una imagen y obtén resultados en segundos.",
+    "uploadButton": "Subir Imagen del Cultivo",
+    "detectButton": "Detectar Enfermedad",
+    "badge": "Detección con IA"
+  },
+  "features": {
+    "title": "Cómo Rastrear Enfermedades",
+    "step1Title": "Capturar Imagen",
+    "step1Desc": "Toma una foto clara de la hoja o planta afectada del cultivo",
+    "step2Title": "Subir y Analizar",
+    "step2Desc": "Nuestra IA analiza la imagen en busca de síntomas de enfermedades",
+    "step3Title": "Obtener Resultados",
+    "step3Desc": "Recibe un diagnóstico instantáneo con recomendaciones de tratamiento"
+  },
+  "dashboard": {
+    "title": "Panel de Detección de Enfermedades",
+    "uploadTitle": "Subir Imagen del Cultivo para Detección",
+    "recentTitle": "Detecciones Recientes",
+    "communityTitle": "Avisos de la Comunidad",
+    "showMore": "Mostrar Más",
+    "update": "Actualizar",
+    "noDetections": "Aún no hay detecciones. ¡Sube una imagen para comenzar!",
+    "analyzing": "Analizando imagen...",
+    "chatbot": "Pregunta a nuestro Asistente IA"
+  },
+  "detection": {
+    "confidence": "Confianza",
+    "severity": "Gravedad",
+    "recommendations": "Recomendaciones",
+    "uploadSuccess": "¡Imagen subida exitosamente!",
+    "uploadError": "Error al subir la imagen. Por favor intenta de nuevo."
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "fullName": "Nombre Completo",
+    "phone": "Número de Teléfono",
+    "noAccount": "¿No tienes una cuenta?",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "loginError": "Error al iniciar sesión. Por favor verifica tus credenciales.",
+    "signupError": "Error al registrarse. Por favor intenta de nuevo."
+  },
+  "community": {
+    "title": "Alertas de Enfermedades de la Comunidad",
+    "trending": "Tendencias",
+    "location": "Ubicación",
+    "reportedOn": "Reportado el",
+    "hero": {
+      "badge": "Feed de Comunidad en Vivo",
+      "subtitle": "Mantente informado sobre brotes de enfermedades en tu área. Conéctate con agricultores de todo el mundo y comparte conocimientos."
+    },
+    "stats": {
+      "activeUsers": "10K+",
+      "activeUsersLabel": "Usuarios Activos",
+      "alerts": "2.5K",
+      "alertsLabel": "Alertas Activas",
+      "locations": "150+",
+      "locationsLabel": "Países",
+      "resolved": "8.2K",
+      "resolvedLabel": "Casos Resueltos"
+    },
+    "description": {
+      "title": "Juntos Crecimos Más Fuertes",
+      "text1": "Nuestra plataforma comunitaria conecta a agricultores, expertos agrícolas e investigadores de todo el mundo. Comparte alertas de enfermedades, aprende de las experiencias de otros y contribuye a una base de conocimientos global que ayuda a todos a proteger sus cultivos.",
+      "text2": "Al participar en nuestra comunidad, estás ayudando a crear sistemas de alerta temprana y mejores prácticas que benefician a toda la comunidad agrícola."
+    },
+    "notices": {
+      "title": "Últimas Alertas de Enfermedades",
+      "count": "{{count}} Alertas Activas"
+    },
+    "empty": {
+      "title": "No Hay Alertas Activas",
+      "description": "Vuelve pronto para ver alertas y actualizaciones de enfermedades de la comunidad."
+    },
+    "benefits": {
+      "title": "Beneficios de la Comunidad",
+      "connect": {
+        "title": "Conectar",
+        "desc": "Conéctate con agricultores y expertos a nivel mundial"
+      },
+      "alerts": {
+        "title": "Alertas Tempranas",
+        "desc": "Recibe notificaciones sobre brotes de enfermedades primero"
+      },
+      "share": {
+        "title": "Compartir Conocimiento",
+        "desc": "Contribuye a una base de conocimientos agrícolas global"
+      }
+    },
+    "cta": {
+      "title": "Únete a Nuestra Comunidad en Crecimiento",
+      "description": "Comienza a compartir y recibir alertas de enfermedades hoy. Tu participación ayuda a proteger los cultivos en todo el mundo.",
+      "button": "Comenzar"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Acerca de CropGuard AI",
+      "subtitle": "Empoderando a agricultores de todo el mundo con tecnología de IA de vanguardia para detectar y gestionar enfermedades de cultivos de manera efectiva."
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "CropGuard AI es una plataforma de tecnología agrícola avanzada diseñada para revolucionar la detección de enfermedades de cultivos. Combinamos inteligencia artificial de última generación con experiencia agrícola profunda para proporcionar a los agricultores información precisa, instantánea y accionable sobre sus cultivos.",
+      "vision": "Nuestra visión es hacer que la detección avanzada de enfermedades de cultivos sea accesible para agricultores en todas partes, independientemente de su ubicación o experiencia técnica. Creemos que la tecnología debe empoderar, no complicar, y que cada agricultor merece acceso a herramientas que puedan ayudar a proteger su sustento."
+    },
+    "stats": {
+      "users": "50K+",
+      "usersLabel": "Usuarios Activos",
+      "detections": "200K+",
+      "detectionsLabel": "Detecciones de Enfermedades",
+      "accuracy": "95%",
+      "accuracyLabel": "Tasa de Precisión",
+      "countries": "120+",
+      "countriesLabel": "Países Servidos"
+    },
+    "features": {
+      "title": "Por Qué Elegir CropGuard AI",
+      "accuracy": {
+        "title": "Alta Precisión",
+        "desc": "Nuestros modelos de IA están entrenados en millones de imágenes de cultivos y mejorados continuamente para lograr tasas de precisión líderes en la industria."
+      },
+      "speed": {
+        "title": "Súper Rápido",
+        "desc": "Obtén resultados instantáneos en segundos. Sin esperas, sin retrasos, solo detección de enfermedades rápida y confiable cuando más la necesitas."
+      },
+      "accessibility": {
+        "title": "Accesible en Cualquier Lugar",
+        "desc": "Funciona en cualquier dispositivo con conexión a internet. Ya sea en el campo o en casa, CropGuard AI siempre está al alcance de tus manos."
+      },
+      "community": {
+        "title": "Comunidad Global",
+        "desc": "Únete a una red mundial de agricultores que comparten conocimientos, alertas y mejores prácticas para la gestión de enfermedades de cultivos."
+      }
+    },
+    "values": {
+      "title": "Nuestros Valores Fundamentales",
+      "innovation": {
+        "title": "Innovación",
+        "desc": "Empujando constantemente los límites de la IA y la tecnología agrícola"
+      },
+      "empowerment": {
+        "title": "Empoderamiento",
+        "desc": "Dando a los agricultores las herramientas que necesitan para tener éxito"
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "desc": "Comprometidos a ofrecer el servicio de más alta calidad"
+      },
+      "sustainability": {
+        "title": "Sostenibilidad",
+        "desc": "Promoviendo prácticas agrícolas sostenibles para las generaciones futuras"
+      }
+    },
+    "technology": {
+      "title": "Impulsado por Tecnología Avanzada",
+      "ai": {
+        "title": "Inteligencia Artificial",
+        "desc": "Modelos de aprendizaje profundo entrenados en vastos conjuntos de datos para reconocer patrones de enfermedades con precisión excepcional."
+      },
+      "cloud": {
+        "title": "Computación en la Nube",
+        "desc": "Infraestructura escalable garantiza procesamiento rápido y servicio confiable, disponible 24/7."
+      },
+      "mobile": {
+        "title": "Diseño Mobile-First",
+        "desc": "Optimizado para dispositivos móviles, facilitando su uso en el campo con smartphones y tablets."
+      },
+      "data": {
+        "title": "Seguridad de Datos",
+        "desc": "Tus datos están encriptados y seguros. Nos tomamos la privacidad en serio y nunca compartimos tu información sin consentimiento."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Proteger Tus Cultivos?",
+      "description": "Únete a miles de agricultores que confían en CropGuard AI para una detección precisa de enfermedades. Comienza tu cuenta gratuita hoy.",
+      "getStarted": "Comenzar",
+      "learnMore": "Aprender Más"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "badge": "Simple y Efectivo",
+      "title": "Cómo Funciona",
+      "subtitle": "Nuestra plataforma avanzada con IA hace que la detección de enfermedades de cultivos sea simple, rápida y precisa. Sigue estos sencillos pasos para comenzar."
+    },
+    "steps": {
+      "capture": {
+        "title": "Captura una Imagen Clara",
+        "desc": "Toma una foto de alta calidad del área afectada del cultivo. Asegúrate de tener buena iluminación y enfoca las hojas enfermas o partes de la planta.",
+        "details": "Usa tu smartphone o cámara para capturar imágenes claras. Mejor calidad de imagen conduce a resultados de detección más precisos."
+      },
+      "upload": {
+        "title": "Sube Tu Imagen",
+        "desc": "Simplemente arrastra y suelta tu imagen o selecciónala desde tu dispositivo. Nuestra plataforma admite varios formatos de imagen.",
+        "details": "El proceso de carga es seguro y encriptado. Tus imágenes se procesan rápidamente y se almacenan de forma segura para tu referencia."
+      },
+      "analyze": {
+        "title": "Análisis con IA",
+        "desc": "Nuestro modelo avanzado de IA analiza tu imagen, comparándola con miles de patrones de enfermedades en nuestra base de datos.",
+        "details": "Usando algoritmos de aprendizaje profundo, identificamos síntomas de enfermedades, evaluamos la gravedad y proporcionamos puntuaciones de confianza para cada detección."
+      },
+      "results": {
+        "title": "Obtén Resultados Instantáneos",
+        "desc": "Recibe un diagnóstico detallado que incluye nombre de la enfermedad, nivel de gravedad, puntuación de confianza y recomendaciones de tratamiento.",
+        "details": "Nuestras recomendaciones incluyen opciones de tratamiento orgánico y químico, consejos de prevención y mejores prácticas para la gestión de enfermedades."
+      }
+    },
+    "benefits": {
+      "title": "Beneficios Clave",
+      "speed": {
+        "title": "Súper Rápido",
+        "desc": "Obtén resultados en segundos, no en horas o días."
+      },
+      "accuracy": {
+        "title": "Muy Preciso",
+        "desc": "Tasa de precisión del 95%+ con mejoras continuas."
+      },
+      "easy": {
+        "title": "Fácil de Usar",
+        "desc": "Interfaz simple, no se requiere experiencia técnica."
+      },
+      "tracking": {
+        "title": "Rastrear Historial",
+        "desc": "Monitorea la salud de tus cultivos a lo largo del tiempo con el historial de detección."
+      }
+    },
+    "tips": {
+      "title": "Consejos para Mejores Resultados",
+      "tip1": "Toma fotos con luz natural para mayor claridad",
+      "tip2": "Enfócate en las áreas afectadas, manteniendo la imagen nítida y enfocada",
+      "tip3": "Incluye tanto primeros planos como tomas más amplias cuando sea posible",
+      "tip4": "Evita sombras y reflejos que puedan ocultar síntomas",
+      "tip5": "Captura imágenes desde múltiples ángulos para un análisis completo"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "q1": {
+        "question": "¿Qué tan precisa es la detección?",
+        "answer": "Nuestros modelos de IA logran más del 95% de precisión en la detección de enfermedades, y mejoramos continuamente a través del aprendizaje automático."
+      },
+      "q2": {
+        "question": "¿Mis datos están seguros?",
+        "answer": "Sí, todas las imágenes y datos están encriptados y almacenados de forma segura. Nunca compartimos tu información con terceros."
+      },
+      "q3": {
+        "question": "¿Puedo usar esto sin conexión?",
+        "answer": "Actualmente, se requiere una conexión a internet para el procesamiento de IA. Estamos trabajando en capacidades sin conexión para futuras actualizaciones."
+      },
+      "q4": {
+        "question": "¿Qué cultivos son compatibles?",
+        "answer": "Soportamos cultivos principales que incluyen arroz, trigo, maíz, tomates, papas y muchos más. Nuestra base de datos continúa expandiéndose."
+      }
+    },
+    "cta": {
+      "title": "Comienza a Detectar Enfermedades Hoy",
+      "description": "Únete a miles de agricultores que protegen sus cultivos con detección de enfermedades con IA. Comienza en segundos.",
+      "button": "Pruébalo Ahora"
+    }
+  }
+}
+
+

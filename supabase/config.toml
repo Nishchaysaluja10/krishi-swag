@@ -1,0 +1,7 @@
+project_id = "wxhlqgjmflkgiuvkuwls"
+
+[functions.detect-disease]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = true

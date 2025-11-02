@@ -1,0 +1,276 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "howItWorks": "Comment Ça Marche",
+    "community": "Communauté",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de Bord"
+  },
+  "hero": {
+    "title": "Protégez Vos Cultures avec l'IA",
+    "subtitle": "Détectez les maladies des cultures instantanément avec notre technologie IA avancée. Téléchargez une image et obtenez des résultats en secondes.",
+    "uploadButton": "Télécharger une Image de Culture",
+    "detectButton": "Détecter une Maladie",
+    "badge": "Détection par IA"
+  },
+  "features": {
+    "title": "Comment Suivre les Maladies",
+    "step1Title": "Capturer une Image",
+    "step1Desc": "Prenez une photo claire de la feuille ou de la plante affectée",
+    "step2Title": "Télécharger et Analyser",
+    "step2Desc": "Notre IA analyse l'image pour détecter les symptômes de maladie",
+    "step3Title": "Obtenir les Résultats",
+    "step3Desc": "Recevez un diagnostic instantané avec des recommandations de traitement"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord de Détection des Maladies",
+    "uploadTitle": "Télécharger une Image de Culture pour Détection",
+    "recentTitle": "Détections Récentes",
+    "communityTitle": "Avis de la Communauté",
+    "showMore": "Afficher Plus",
+    "update": "Mettre à Jour",
+    "noDetections": "Aucune détection pour le moment. Téléchargez une image pour commencer!",
+    "analyzing": "Analyse de l'image...",
+    "chatbot": "Demandez à notre Assistant IA"
+  },
+  "detection": {
+    "confidence": "Confiance",
+    "severity": "Gravité",
+    "recommendations": "Recommandations",
+    "uploadSuccess": "Image téléchargée avec succès!",
+    "uploadError": "Échec du téléchargement de l'image. Veuillez réessayer."
+  },
+  "auth": {
+    "login": "Connexion",
+    "signup": "S'Inscrire",
+    "email": "Email",
+    "password": "Mot de Passe",
+    "fullName": "Nom Complet",
+    "phone": "Numéro de Téléphone",
+    "noAccount": "Vous n'avez pas de compte?",
+    "haveAccount": "Vous avez déjà un compte?",
+    "loginError": "Échec de la connexion. Veuillez vérifier vos identifiants.",
+    "signupError": "Échec de l'inscription. Veuillez réessayer."
+  },
+  "community": {
+    "title": "Alertes de Maladies de la Communauté",
+    "trending": "Tendances",
+    "location": "Localisation",
+    "reportedOn": "Signalé le",
+    "hero": {
+      "badge": "Fil de Communauté en Direct",
+      "subtitle": "Restez informé sur les épidémies de maladies dans votre région. Connectez-vous avec des agriculteurs du monde entier et partagez des connaissances."
+    },
+    "stats": {
+      "activeUsers": "10K+",
+      "activeUsersLabel": "Utilisateurs Actifs",
+      "alerts": "2.5K",
+      "alertsLabel": "Alertes Actives",
+      "locations": "150+",
+      "locationsLabel": "Pays",
+      "resolved": "8.2K",
+      "resolvedLabel": "Cas Résolus"
+    },
+    "description": {
+      "title": "Ensemble Nous Grandissons Plus Forts",
+      "text1": "Notre plateforme communautaire relie les agriculteurs, les experts agricoles et les chercheurs du monde entier. Partagez des alertes de maladies, apprenez des expériences des autres et contribuez à une base de connaissances mondiale qui aide tous à protéger leurs cultures.",
+      "text2": "En participant à notre communauté, vous aidez à créer des systèmes d'alerte précoce et des meilleures pratiques qui profitent à toute la communauté agricole."
+    },
+    "notices": {
+      "title": "Dernières Alertes de Maladies",
+      "count": "{{count}} Alertes Actives"
+    },
+    "empty": {
+      "title": "Aucune Alerte Active",
+      "description": "Revenez bientôt pour les alertes et mises à jour sur les maladies de la communauté."
+    },
+    "benefits": {
+      "title": "Avantages de la Communauté",
+      "connect": {
+        "title": "Se Connecter",
+        "desc": "Réseau avec des agriculteurs et experts du monde entier"
+      },
+      "alerts": {
+        "title": "Alertes Précoces",
+        "desc": "Soyez notifié en premier des épidémies de maladies"
+      },
+      "share": {
+        "title": "Partager les Connaissances",
+        "desc": "Contribuez à une base de connaissances agricoles mondiale"
+      }
+    },
+    "cta": {
+      "title": "Rejoignez Notre Communauté en Croissance",
+      "description": "Commencez à partager et recevoir des alertes de maladies dès aujourd'hui. Votre participation aide à protéger les cultures dans le monde entier.",
+      "button": "Commencer"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À Propos de CropGuard AI",
+      "subtitle": "Autonomiser les agriculteurs du monde entier avec une technologie IA de pointe pour détecter et gérer efficacement les maladies des cultures."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "CropGuard AI est une plateforme de technologie agricole avancée conçue pour révolutionner la détection des maladies des cultures. Nous combinons une intelligence artificielle de pointe avec une expertise agricole approfondie pour fournir aux agriculteurs des informations précises, instantanées et exploitables sur leurs cultures.",
+      "vision": "Notre vision est de rendre la détection avancée des maladies des cultures accessible aux agriculteurs partout, quel que soit leur emplacement ou leur expertise technique. Nous croyons que la technologie doit autonomiser, pas compliquer, et que chaque agriculteur mérite l'accès à des outils qui peuvent aider à protéger leur moyen de subsistance."
+    },
+    "stats": {
+      "users": "50K+",
+      "usersLabel": "Utilisateurs Actifs",
+      "detections": "200K+",
+      "detectionsLabel": "Détections de Maladies",
+      "accuracy": "95%",
+      "accuracyLabel": "Taux de Précision",
+      "countries": "120+",
+      "countriesLabel": "Pays Desservis"
+    },
+    "features": {
+      "title": "Pourquoi Choisir CropGuard AI",
+      "accuracy": {
+        "title": "Haute Précision",
+        "desc": "Nos modèles d'IA sont entraînés sur des millions d'images de cultures et continuellement améliorés pour atteindre des taux de précision de pointe dans l'industrie."
+      },
+      "speed": {
+        "title": "Ultra Rapide",
+        "desc": "Obtenez des résultats instantanés en secondes. Pas d'attente, pas de retard - juste une détection de maladie rapide et fiable quand vous en avez le plus besoin."
+      },
+      "accessibility": {
+        "title": "Accessible Partout",
+        "desc": "Fonctionne sur tout appareil avec une connexion Internet. Que vous soyez sur le terrain ou à la maison, CropGuard AI est toujours à portée de main."
+      },
+      "community": {
+        "title": "Communauté Mondiale",
+        "desc": "Rejoignez un réseau mondial d'agriculteurs partageant des connaissances, des alertes et des meilleures pratiques pour la gestion des maladies des cultures."
+      }
+    },
+    "values": {
+      "title": "Nos Valeurs Fondamentales",
+      "innovation": {
+        "title": "Innovation",
+        "desc": "Pousser constamment les limites de l'IA et de la technologie agricole"
+      },
+      "empowerment": {
+        "title": "Autonomisation",
+        "desc": "Donner aux agriculteurs les outils dont ils ont besoin pour réussir"
+      },
+      "excellence": {
+        "title": "Excellence",
+        "desc": "Engagés à fournir le service de la plus haute qualité"
+      },
+      "sustainability": {
+        "title": "Durabilité",
+        "desc": "Promouvoir des pratiques agricoles durables pour les générations futures"
+      }
+    },
+    "technology": {
+      "title": "Alimenté par une Technologie Avancée",
+      "ai": {
+        "title": "Intelligence Artificielle",
+        "desc": "Modèles d'apprentissage profond entraînés sur de vastes ensembles de données pour reconnaître les modèles de maladies avec une précision exceptionnelle."
+      },
+      "cloud": {
+        "title": "Informatique en Nuage",
+        "desc": "Une infrastructure évolutive garantit un traitement rapide et un service fiable, disponible 24h/24 et 7j/7."
+      },
+      "mobile": {
+        "title": "Conception Mobile-First",
+        "desc": "Optimisé pour les appareils mobiles, facilitant son utilisation sur le terrain avec smartphones et tablettes."
+      },
+      "data": {
+        "title": "Sécurité des Données",
+        "desc": "Vos données sont cryptées et sécurisées. Nous prenons la confidentialité au sérieux et ne partageons jamais vos informations sans consentement."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Protéger Vos Cultures?",
+      "description": "Rejoignez des milliers d'agriculteurs qui font confiance à CropGuard AI pour une détection précise des maladies. Créez votre compte gratuit aujourd'hui.",
+      "getStarted": "Commencer",
+      "learnMore": "En Savoir Plus"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "badge": "Simple et Efficace",
+      "title": "Comment Ça Marche",
+      "subtitle": "Notre plateforme avancée alimentée par l'IA rend la détection des maladies des cultures simple, rapide et précise. Suivez ces étapes faciles pour commencer."
+    },
+    "steps": {
+      "capture": {
+        "title": "Capturer une Image Claire",
+        "desc": "Prenez une photo de haute qualité de la zone affectée de la culture. Assurez-vous d'avoir un bon éclairage et concentrez-vous sur les feuilles ou parties de plantes malades.",
+        "details": "Utilisez votre smartphone ou appareil photo pour capturer des images claires. Une meilleure qualité d'image conduit à des résultats de détection plus précis."
+      },
+      "upload": {
+        "title": "Télécharger Votre Image",
+        "desc": "Glissez simplement votre image ou sélectionnez-la depuis votre appareil. Notre plateforme prend en charge divers formats d'image.",
+        "details": "Le processus de téléchargement est sécurisé et crypté. Vos images sont traitées rapidement et stockées en toute sécurité pour votre référence."
+      },
+      "analyze": {
+        "title": "Analyse IA",
+        "desc": "Notre modèle d'IA avancé analyse votre image, la comparant à des milliers de modèles de maladies dans notre base de données.",
+        "details": "En utilisant des algorithmes d'apprentissage profond, nous identifions les symptômes de maladie, évaluons la gravité et fournissons des scores de confiance pour chaque détection."
+      },
+      "results": {
+        "title": "Obtenir des Résultats Instantanés",
+        "desc": "Recevez un diagnostic détaillé incluant le nom de la maladie, le niveau de gravité, le score de confiance et les recommandations de traitement.",
+        "details": "Nos recommandations incluent des options de traitement organique et chimique, des conseils de prévention et des meilleures pratiques pour la gestion des maladies."
+      }
+    },
+    "benefits": {
+      "title": "Avantages Clés",
+      "speed": {
+        "title": "Ultra Rapide",
+        "desc": "Obtenez des résultats en secondes, pas en heures ou en jours."
+      },
+      "accuracy": {
+        "title": "Très Précis",
+        "desc": "Taux de précision de 95%+ avec des améliorations continues."
+      },
+      "easy": {
+        "title": "Facile à Utiliser",
+        "desc": "Interface simple, aucune expertise technique requise."
+      },
+      "tracking": {
+        "title": "Suivre l'Historique",
+        "desc": "Surveillez la santé de vos cultures au fil du temps avec l'historique de détection."
+      }
+    },
+    "tips": {
+      "title": "Conseils pour de Meilleurs Résultats",
+      "tip1": "Prenez des photos à la lumière naturelle pour une meilleure clarté",
+      "tip2": "Concentrez-vous sur les zones affectées, en gardant l'image nette et focalisée",
+      "tip3": "Incluez des gros plans et des vues plus larges lorsque c'est possible",
+      "tip4": "Évitez les ombres et reflets qui pourraient masquer les symptômes",
+      "tip5": "Capturez des images sous plusieurs angles pour une analyse complète"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "q1": {
+        "question": "Quelle est la précision de la détection?",
+        "answer": "Nos modèles d'IA atteignent plus de 95% de précision dans la détection des maladies, et nous améliorons continuellement grâce à l'apprentissage automatique."
+      },
+      "q2": {
+        "question": "Mes données sont-elles sécurisées?",
+        "answer": "Oui, toutes les images et données sont cryptées et stockées en toute sécurité. Nous ne partageons jamais vos informations avec des tiers."
+      },
+      "q3": {
+        "question": "Puis-je l'utiliser hors ligne?",
+        "answer": "Actuellement, une connexion Internet est requise pour le traitement IA. Nous travaillons sur des capacités hors ligne pour les futures mises à jour."
+      },
+      "q4": {
+        "question": "Quelles cultures sont prises en charge?",
+        "answer": "Nous prenons en charge les principales cultures, notamment le riz, le blé, le maïs, les tomates, les pommes de terre et bien d'autres. Notre base de données continue de s'étendre."
+      }
+    },
+    "cta": {
+      "title": "Commencez à Détecter les Maladies Aujourd'hui",
+      "description": "Rejoignez des milliers d'agriculteurs qui protègent leurs cultures avec la détection de maladies alimentée par l'IA. Commencez en secondes.",
+      "button": "Essayez Maintenant"
+    }
+  }
+}
+
+
